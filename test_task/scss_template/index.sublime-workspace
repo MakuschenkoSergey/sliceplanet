@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"ra",
+				"rate.jpg\tw:12 h:12"
+			],
+			[
+				"img",
+				"img/"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2248,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/custom.js",
+			"settings":
+			{
+				"buffer_size": 2323,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 7257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"ka",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/projects/slice_planet/test_task/scss_template/index.html",
+		"/E/projects/test_ardas/table-example.html",
+		"/E/projects/test_ardas/letter.html",
+		"/E/projects/test_ardas/style.css",
+		"/E/projects/test_ardas/index.html",
+		"/E/projects/test_ardas/table.html",
+		"/C/Users/Сережа/Downloads/открытьки/25 Best-Selling Fonts, only $29 - plunger.tom@gmail.com - Gmail.html",
+		"/C/Users/Сережа/Desktop/learning examples.html",
+		"/C/Users/Сережа/Downloads/ajax in action/[EPIDEM.RU] Ajax в действии/Исходники примеров/ch02/window.css",
+		"/C/Users/Сережа/Downloads/ajax in action/[EPIDEM.RU] Ajax в действии/Исходники примеров/ch02/window.html",
+		"/C/Users/Сережа/Downloads/ajax in action/[EPIDEM.RU] Ajax в действии/Исходники примеров/ch02/window-skeleton.css",
+		"/C/Users/Сережа/Downloads/ajax in action/[EPIDEM.RU] Ajax в действии/Исходники примеров/ch02/callbacktest.html",
+		"/E/server/OpenServer/OpenServer/domains/wordpress.loc/wordpress/wp-content/themes/twentysixteen/js/functions.js",
+		"/E/server/OpenServer/OpenServer/domains/wordpress.loc/wordpress/wp-content/themes/twentysixteen/functions.php",
+		"/E/server/OpenServer/OpenServer/domains/podarok.loc/header.php",
+		"/E/server/OpenServer/OpenServer/domains/podarok.loc/index.php",
+		"/E/server/OpenServer/OpenServer/domains/wordpress.loc/wordpress/wp-content/themes/twentysixteen/css/editor-style.css",
+		"/E/projects/adaptive project/template_bootstrap/index.html",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/yandex-metrika.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/E/VIDEO/CMS/wordpress/wp-content/themes/twentyfifteen/image.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/framework.css",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/template-gallery.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Сережа/AppData/Local/Temp/fz3temp-2/header.php",
+		"/E/VIDEO/CMS/wordpress/wp-content/themes/twentyfifteen/content-link.php",
+		"/E/VIDEO/CMS/wordpress/wp-content/themes/twentyfifteen/index.php",
+		"/E/VIDEO/CMS/wordpress/wp-content/themes/twentyfifteen/functions.php",
+		"/E/VIDEO/CMS/wordpress/wp-content/themes/twentyfifteen/css/editor-style.css",
+		"/E/projects/сайт найди свое путешествие/Index.html",
+		"/E/projects/adaptive project/template_bootstrap/css/main.css",
+		"/C/Users/Сережа/Downloads/iptv.m3u",
+		"/E/server/OpenServer/OpenServer/domains/shop.loc/admin/controller/design/banner.php",
+		"/C/Users/Сережа/AppData/Local/Temp/Temp1_TriplePanelImageSlider.zip/index.html",
+		"/C/Users/Сережа/Downloads/Список каналов U2C m2 Maxi 2016-07-18_4+5+13+36_v2.1.16.u2c",
+		"/E/projects/birr/js/common.js",
+		"/E/projects/birr/libs/fancyapps-fancyBox-18d1712/README.md",
+		"/E/projects/birr/index.html",
+		"/E/projects/birr/css/main.css",
+		"/C/Users/Сережа/Desktop/map.html",
+		"/C/Users/Сережа/Desktop/common",
+		"/C/Users/Сережа/Desktop/Ukraine.svg",
+		"/E/projects/birr/main.css",
+		"/E/projects/birr/js/common",
+		"/E/projects/podarok_project/index.html",
+		"/C/Users/Сережа/Desktop/yellow.svg",
+		"/C/Users/Сережа/Desktop/yellow.css",
+		"/C/Users/Сережа/AppData/Local/Temp/Temp1_rehabilitation-yoga.zip/rehabilitation-yoga/upload/index.html",
+		"/M/магаз/soft_serve/css/media.css",
+		"/M/магаз/soft_serve/index.html",
+		"/M/магаз/soft_serve/css/main.css",
+		"/M/магаз/soft_serve_project/css/main.css",
+		"/M/магаз/soft_serve_project/index.html",
+		"/E/projects/soft_serve_project/js/common.js",
+		"/E/projects/soft_serve_project/css/main.css",
+		"/E/projects/soft_serve_project/product.html",
+		"/E/projects/soft_serve_project/index.html",
+		"/E/projects/soft_serve_project/product",
+		"/E/projects/ite_lending_auto_hall/template_bootstrap/index.html",
+		"/E/projects/Посадочная страница_пример/line-Free App-Landing-Page-Responsive-Web Template/index.html",
+		"/E/server/OpenServer/OpenServer/domains/shop.loc/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/E/projects/steel/index.html",
+		"/E/projects/steel/libs/landing-nav/navigation.js",
+		"/E/projects/podarok_project/css/main.css",
+		"/E/projects/podarok_project/style.css",
+		"/E/projects/steel/libs/jquery-mousewheel/jquery.mousewheel.min.js",
+		"/E/server/OpenServer/OpenServer/domains/shop.loc/catalog/view/theme/default/template/product/category.tpl",
+		"/E/server/OpenServer/OpenServer/domains/shop.loc/catalog/view/theme/default/template/product/product.tpl",
+		"/E/лендинг/Известно ли вам, что вы можете дешево купить в Китае и дорого продать на Амазоне_ — Бизнес на Амазоне.html",
+		"/E/VIDEO/uppod-0.5.37.js",
+		"/E/Portfolio serega/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"href",
+			"fill:\"#22C3F2\"",
+			"stroke=\"#94A2D2\"",
+			"fill=\"#e2e3e4\"",
+			"handbag",
+			"white",
+			"card-name",
+			"top",
+			"bread",
+			"menu",
+			"clear",
+			"tabs",
+			"contant",
+			"//$",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fill:\"#22c3f2\"",
+			"stroke=\"#fff\"",
+			"fill: \"#22C3F2\"",
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1367,
+								1367
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1367,
+										1368
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1359,
+										1360
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										397,
+										398
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										329,
+										330
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4423,
+								4423
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4424,
+										4425
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4391,
+										4392
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 4050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 105.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
